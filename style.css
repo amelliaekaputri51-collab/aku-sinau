@@ -1,3 +1,11 @@
 body {
     background-color: #FFFFEO; /8 Warna kuning cerah */
     font-family: Arial, sans-serief; /* Jenis haruf}
+
+.kertu-profil {
+    widht: 300px;
+    margin: 50x auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+    padding: 20px;
+    background-color: white;
+    border-radius: 15x; /* Membuat sudut menjadi melengkung */
+    box-shadow: 0 4x 8x rgba(0,0,0,0.1); /* Efek bayangan */}
